@@ -1,0 +1,19 @@
+Para escrever um código em C, vocêdeve seguir algumas etapas básicas. Aqui está uma visão geral das etapas que você deve seguir:
+
+   - Planejamento e análise: antes de escrever qualquer código, é importante definir exatamente o que você quer que ele faça e como ele deve 
+   fazê-lo. Isso inclui decidir quais funções e variáveis serão necessárias, bem como como elas se relacionam entre si.
+
+   -Escreva o código: uma vez que você tenha um plano detalhado, é hora de começar a escrever o código real. Certifique-se de que está seguindo as 
+   convenções de nomenclatura e formatação do C, e comente o código conforme necessário para ajudar a explicar o que está acontecendo.
+
+   -Depuração: uma vez que o código esteja escrito, é hora de testá-lo e corrigir quaisquer erros que possam surgir. Isso pode ser feito usando 
+   um depurador, ou adicionando declarações printf para imprimir valores de variáveis ​​em momentos chave durante a execução do programa.
+
+   -Compilação: o próximo passo é compilar o código em um arquivo executável. Isso pode ser feito usando um compilador C, que traduz o 
+   código escrito em instruções de máquina que podem ser executadas pelo computador.
+
+   -Execução: finalmente, é hora de executar o programa e ver se ele funciona conforme o esperado. Se houver erros ou bugs, volte para a 
+   etapa de depuração e continue até que tudo funcione corretamente.
+
+Lembre-se de que a escrita de código é um processo iterativo, então é provável que você precise voltar e refinar algumas partes do código várias 
+vezes antes que ele funcione como desejado.
