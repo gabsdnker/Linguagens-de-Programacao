@@ -1,0 +1,34 @@
+C++ é uma linguagem de programação de alto nível, orientada a objetos e compilada. Ela permite aos programadores escreverem programas que interagem 
+diretamente com o hardware do computador, fornecendo assim controle de baixo nível do sistema. Neste tutorial, vou descrever os passos básicos para
+escrever um programa em C++.
+
+    1-Instalação do compilador C++
+    Para escrever programas em C++, é necessário ter um compilador instalado em seu computador. Há vários compiladores disponíveis, mas um dos 
+    mais populares é o GCC, que é gratuito e pode ser instalado em várias plataformas, incluindo Windows, Mac e Linux.
+
+    2-Escrevendo o código
+    O código-fonte em C++ é escrito em um editor de texto simples, como o Bloco de Notas no Windows ou o TextEdit no Mac. O código-fonte é salvo 
+    com uma extensão .cpp. O código-fonte é dividido em várias partes, cada uma com uma função específica.
+
+    3Compilação do código
+    Após escrever o código-fonte, é preciso compilá-lo. O compilador C++ converte o código-fonte em código objeto, que é executável 
+    pelo computador. O código objeto é armazenado em um arquivo com extensão .o ou .obj.
+
+    4-Vinculação do código objeto
+    O próximo passo é vincular o código objeto a outras bibliotecas que podem ser necessárias para o programa funcionar. Isso é feito pelo 
+    vinculador, que cria um arquivo executável que pode ser executado diretamente pelo sistema operacional.
+
+    5-Execução do programa
+    Depois que o código é compilado e vinculado, o programa pode ser executado. O programa pode ser executado a partir da linha de comando ou 
+    de um ambiente de desenvolvimento integrado (IDE) como o Visual Studio ou o Code::Blocks.
+
+    6-Depuração de erros
+    A depuração de erros é um passo importante no processo de desenvolvimento de software. Ela envolve a identificação e correção de erros no 
+    programa. Os erros podem ser sintáticos, semânticos ou lógicos.
+
+    7-Compilação e distribuição do programa
+    Depois que o programa é depurado, ele deve ser compilado novamente para garantir que todos os erros foram corrigidos. O programa compilado
+    pode então ser distribuído aos usuários finais ou instalado em um servidor.
+
+Esses são os passos básicos para escrever um programa em C++. O C++ é uma linguagem poderosa e complexa, com muitos recursos avançados, como classes,
+herança, polimorfismo e templates. Portanto, há muito a aprender antes de se tornar um programador C++ experiente.
