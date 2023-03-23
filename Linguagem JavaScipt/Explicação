@@ -1,1 +1,21 @@
+JavaScript é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela é usada principalmente para desenvolvimento web,
+mas também pode ser usada em outros tipos de aplicativos. Neste tutorial, vou descrever os passos básicos para escrever um programa em JavaScript.
 
+    1-Adicionando o código JavaScript a uma página HTML
+    O código JavaScript é adicionado a uma página HTML usando a tag <script>. O código pode ser adicionado diretamente na página HTML ou em um arquivo 
+    JavaScript separado.
+
+    2-Escrevendo o código
+    O código em JavaScript é escrito em um editor de texto simples, como o Bloco de Notas no Windows ou o TextEdit no Mac. O código é salvo com uma
+    extensão .js. O código é dividido em várias partes, cada uma com uma função específica.
+
+    3-Execução do programa
+    O programa é executado no navegador web. Quando o navegador encontra a tag <script>, ele executa o código JavaScript. O código pode ser executado 
+    imediatamente ou em resposta a eventos do usuário, como clicar em um botão.
+
+    4-Depuração de erros
+    A depuração de erros é um passo importante no processo de desenvolvimento de software. Ela envolve a identificação e correção de erros no programa. 
+    Os erros podem ser sintáticos, semânticos ou lógicos.
+
+    5-Implantação do programa
+    Depois que o programa é depurado, ele pode ser implantado em um servidor web para que os usuários finais possam acessá-lo.
