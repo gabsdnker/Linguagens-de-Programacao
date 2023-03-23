@@ -1,0 +1,20 @@
+Ruby é uma linguagem de programação de alto nível e de código aberto, orientada a objetos. Neste tutorial, vou descrever os passos básicos
+para escrever um programa em Ruby.
+
+    1-Instalação do Ruby
+    Para começar a escrever programas em Ruby, é necessário instalar o interpretador Ruby. O interpretador pode ser baixado gratuitamente no
+    site oficial do Ruby (https://www.ruby-lang.org/pt/). Siga as instruções de instalação para o seu sistema operacional específico.
+
+    2-Escrevendo o código
+    O código em Ruby é escrito em um editor de texto simples, como o Bloco de Notas no Windows ou o TextEdit no Mac. O código é salvo com uma 
+    extensão .rb. O código é dividido em várias partes, cada uma com uma função específica.
+
+    3-Execução do programa
+    O programa é executado no terminal do sistema operacional. O código pode ser executado imediatamente ou em resposta a eventos do usuário.
+
+    4-Depuração de erros
+    A depuração de erros é um passo importante no processo de desenvolvimento de software. Ela envolve a identificação e correção de erros no 
+    programa. Os erros podem ser sintáticos, semânticos ou lógicos.
+
+    5-Implantação do programa
+    Depois que o programa é depurado, ele pode ser implantado em um servidor web para que os usuários finais possam acessá-lo.
